@@ -14,4 +14,4 @@ s = mlab.surf(x, y, f)
 s.module_manager.scalar_lut_manager.lut_mode = 'viridis'
 
 mlab.savefig('surf_test.pov', )
-mlab.show()
+# mlab.show()
